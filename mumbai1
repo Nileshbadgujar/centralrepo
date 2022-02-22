@@ -1,1 +1,10 @@
-hi all this is nilesh and i am just learning git 
+declare 
+  a number
+  b number 
+  c number
+begin
+a:= 10;
+B:=20;
+c := a + B;
+dbms_output.put_line(''[D[D[C)
+end;
